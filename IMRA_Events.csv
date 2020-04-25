@@ -1,108 +1,109 @@
-,Day,Time,Venue/Event,Leagues,County,Type,Climb,Dist.
-0,Sat Jan 4,11:00 AM,Glengarra Woods,MTL,Tipperary,IMRA Race,300,700
-1,Fri Jan 10,9:00 PM,Ballyhoura Moonlight Marathon Challenge,,Limerick,IMRA Race,1000,4200
-2,Fri Jan 10,10:00 PM,Ballyhoura Moonlight Half-Marathon Challenge,,Limerick,IMRA Race,500,2100
-3,Sun Jan 19,11:00 AM,Corrin,MTL,Cork,IMRA Race,260,660
-4,Sun Jan 26,11:00 AM,Brockagh Burst,WSL,Wicklow,IMRA Race,200,600
-5,Sun Feb 2,11:00 AM,Currabinny Trail,MTL,Cork,IMRA Race,175,670
-6,Sun Feb 2,11:00 AM,Castlecomer Discovery Park,SEL,Kilkenny,IMRA Race,140,800
-7,Sat Feb 15,8:00 AM,Slí Gaeltacht Mhúscraí Ultra,IUC,Cork,IMRA Race,2140,7150
-8,Sat Feb 15,12:00 PM,Slí Mhúscraí Half,MHM,Cork,IMRA Race,900,2350
-9,Sun Feb 16,11:00 AM,Oughaval Woods,SEL,Laois,IMRA Race,200,850
-10,Sun Feb 23,11:00 AM,Bansha Woods (RESCHEDULED),MTL,Tipperary,IMRA Race,200,850
-11,Sun Feb 23,11:00 AM,Trooperstown Hill,WSL,Wicklow,IMRA Race,380,970
-12,Sat Feb 29,11:00 AM,Ticknock Winter (RESCHEDULED),WSL,Dublin,IMRA Race,220,590
-13,Sun Mar 1,11:00 AM,Bweeng Trail,MTL,Cork,IMRA Race,350,950
-14,Sun Mar 1,11:00 AM,Tory Hill,SEL,Kilkenny,IMRA Race,175,600
-15,Sat Mar 7,11:00 AM,Howth Winter,WSL,Dublin,IMRA Race,311,960
-16,Sun Mar 15,11:00 AM,Forth Mountain Wexford - Postponed,SEL,Wexford,IMRA Race,200,700
-17,Sat Mar 21,12:00 PM,Annagh Hill - Cancelled,,Wexford,IMRA Race,550,1050
-18,Sat Mar 21,12:00 PM,College Champs - Camaderry - Postponed,,Wicklow,IMRA Race,552,850
-19,Sun Apr 5,11:00 AM,Woodstock Trail.** CANCELLED**,SEL,Kilkenny,IMRA Race,274,940
-20,Wed Apr 15,7:30 PM,Vir-2-al Relay Charity Race,,Dublin,IMRA Relay,129,200
-21,Sat Apr 18,8:00 AM,Wicklow Glacier Lakes (Solo),,Wicklow,IMRA Race,1783,4270
-22,Sat Apr 18,8:00 AM,Wicklow Glacier Lakes (Relay),,Wicklow,IMRA Relay,1783,4270
-23,Sun Apr 19,11:00 AM,"Johns Hill, Killbrannish",SEL,Carlow,IMRA Race,368,1059
-24,Sun Apr 19,11:00 AM,MangertonTrail,MTL,Kerry,IMRA Race,250,500
-25,Sun Apr 19,1:00 PM,Mangerton Munster Championship,MC,Kerry,IMRA Race,700,960
-26,Wed Apr 22,7:30 PM,Bray Head,LL,Wicklow,IMRA Race,270,685
-27,Sun Apr 26,12:00 PM,Tonelagee and Lap of the Lake,LC,Wicklow,IMRA Race,570,950
-28,Wed Apr 29,7:30 PM,Scalp,LL,Dublin,IMRA Race,212,580
-29,Sat May 2,4:30 AM,Ultra Trail Ballyhoura,IUC,Limerick,IMRA Race,2850,10000
-30,Sat May 2,8:30 AM,Ballyhoura Trail Marathon,,Limerick,IMRA Race,1400,4200
-31,Sat May 2,10:30 AM,Ballyhoura Trail Half Marathon **cancelled**,MHM,Limerick,IMRA Race,750,2110
-32,Sun May 3,12:00 PM,Mount Leinster,"LC, SEL",Wexford,IMRA Race,635,1380
-33,Sun May 3,12:00 PM,U18 Cup Trial Race (Mount Leinster),ICS,Dublin,IMRA Race,321,650
-34,Sun May 3,12:00 PM,European and Snowden Trial (Mount Leinster),ICS,Wicklow,IMRA Race,635,1380
-35,Wed May 6,7:30 PM,Three Rock Summer,LL,Dublin,IMRA Race,344,850
-36,Wed May 6,8:00 PM,Kilworth Woods **cancelled**,MTL,Cork,IMRA Race,175,650
-37,Sat May 9,11:00 AM,Mount Errigal,IC,Donegal,IMRA Race,500,1000
-38,Wed May 13,7:30 PM,Prince William's Seat,LL,Wicklow,IMRA Race,364,839
-39,Sun May 17,11:00 AM,Guagane Barra Trail,MTL,Cork,IMRA Race,200,500
-40,Sun May 17,11:00 AM,Laghtnafrankee - Long Hill Clonmel,SEL,Waterford,IMRA Race,500,1300
-41,Sun May 17,1:00 PM,Gougane Barra Championship,MC,Cork,IMRA Race,475,1000
-42,Wed May 20,7:30 PM,Carrick Mountain,LL,Wicklow,IMRA Race,427,600
-43,Sat May 23,7:00 AM,Glendalough Tucker Trail,IUC,Wicklow,IMRA Race,3000,8000
-44,Wed May 27,7:30 PM,Glasnamullen and a clockwise lap of Djouce,LL,Wicklow,IMRA Race,410,1020
-45,Wed May 27,8:00 PM,12 O'Clock Hills,MTL,Clare,IMRA Race,250,560
-46,Sat May 30,9:00 AM,Maurice Mullins Ultra - Postponed,IUC,Wicklow,IMRA Race,1940,5100
-47,Sat May 30,12:00 PM,Maurice Mullins Half - Postponed,ICS,Wicklow,IMRA Race,971,2550
-48,Sat May 30,1:00 PM,Carrauntoohil,IC,Kerry,IMRA Race,1137,1250
-49,Sat May 30,3:00 PM,Interceltic (Trail de Guerledan),ICS,Antrim,IMRA Race,830,2600
-50,Wed Jun 3,7:30 PM,Sorrell Hill,LL,Wicklow,IMRA Race,392,945
-51,Sat Jun 6,11:00 AM,***Postponed*** Knockmealdown Half,MHM,Waterford,IMRA Race,1050,2100
-52,Sun Jun 7,11:00 AM,Ballyhoura Munster Championship,"MC, MTL",Limerick,IMRA Race,250,500
-53,Wed Jun 10,7:30 PM,Scarr,LL,Wicklow,IMRA Race,383,825
-54,Fri Jun 12,9:00 PM,Beara Way Ultra Trail,,Cork,IMRA Race,4000,13000
-55,Sat Jun 13,8:00 AM,Beara Way Relay,,Cork,IMRA Relay,4000,13000
-56,Wed Jun 17,7:30 PM,Great Sugarloaf,LL,Wicklow,IMRA Race,450,750
-57,Wed Jun 17,8:00 PM,Mt. Hillary,MTL,Cork,IMRA Race,300,1000
-58,Sat Jun 20,9:00 AM,WMRA International U18 Cup,ICS,Abroad,Non-IMRA Race,300,500
-59,Sun Jun 21,12:00 PM,Circuit of Glenmacnass,LC,Wicklow,IMRA Race,1040,1900
-60,Wed Jun 24,7:30 PM,Tibradden/Sliabh Thigh Bródáin,LL,Dublin,IMRA Race,365,1123
-61,Sun Jun 28,9:00 AM,Galty Crossing,,Tipperary,IMRA Race,1500,3200
-62,Wed Jul 1,7:30 PM,Brockagh,LL,Wicklow,IMRA Race,443,1100
-63,Sat Jul 4,9:00 AM,European Mountain Running Championships,ICS,Abroad,Non-IMRA Race,600,1200
-64,Sat Jul 4,1:30 PM,Mweelrea,"IC, CC",Mayo,IMRA Race,766,1070
-65,Sun Jul 5,1:30 PM,Croagh Patrick,CC,Mayo,IMRA Race,826,700
-66,Wed Jul 8,7:30 PM,Ballinastoe,LL,Wicklow,IMRA Race,490,1200
-67,Wed Jul 8,8:00 PM,Claragh,MTL,Cork,IMRA Race,350,750
-68,Sat Jul 11,12:00 AM,Wicklow Way Race,IUC,Wicklow,IMRA Race,3000,12700
-69,Sun Jul 12,11:30 AM,B&I U17&U20 Junior Championships Trial,ICS,Wicklow,IMRA Race,300,450
-70,Wed Jul 15,7:30 PM,Djouce -The Ayling Abyss,LL,Wicklow,IMRA Race,580,980
-71,Sat Jul 18,8:30 AM,Reeks Skyline (pre-entry approval required),,Kerry,IMRA Race,3000,3000
-72,Sat Jul 18,2:00 PM,Snowdon,ICS,Abroad,Non-IMRA Race,1000,1610
-73,Sun Jul 19,11:00 AM,Cronins Yard Trail,MTL,Kerry,IMRA Race,200,600
-74,Sun Jul 19,1:00 PM,Carrauntoohill Classic,MC,Kerry,IMRA Race,1100,1500
-75,Wed Jul 22,7:30 PM,Mountain Rescue Benefit Race,,Wicklow,IMRA Race,250,800
-76,Sat Jul 25,1:00 PM,Log na Coille,"IC, LC",Wicklow,IMRA Race,718,1046
-77,Wed Jul 29,7:30 PM,Glen of the Downs,TL,Wicklow,IMRA Race,200,715
-78,Sun Aug 2,11:00 AM,Boolas Trail Loop,MTL,Waterford,IMRA Race,250,500
-79,Sun Aug 2,1:00 PM,Boolas Championship,MC,Waterford,IMRA Race,700,1200
-80,Wed Aug 5,7:30 PM,Devil's Glen Tiglin,TL,Wicklow,IMRA Race,283,800
-81,Sat Aug 8,7:00 AM,Wicklow Way Relay,,Wicklow,IMRA Relay,3500,10400
-82,Wed Aug 12,7:30 PM,Downshill,TL,Wicklow,IMRA Race,400,960
-83,Wed Aug 12,8:00 PM,Rochestown Woods,MTL,Cork,IMRA Race,250,600
-84,Sun Aug 16,12:00 PM,Galtymore,IC,Tipperary,IMRA Race,1100,1300
-85,Wed Aug 19,7:00 PM,Mountain Meitheal - Leinster League Handicap,,Dublin,IMRA Race,443,762
-86,Sat Aug 22,11:00 AM,Drumgoff,LC,Wicklow,IMRA Race,650,1450
-87,Sun Aug 23,11:00 AM,Moylussa Trail,MTL,Clare,IMRA Race,300,500
-88,Sun Aug 23,1:00 PM,Moylussa Championship,MC,Clare,IMRA Race,630,1000
-89,Sat Aug 29,10:30 AM,Nav Challenge 1,NC,Wicklow,IMRA Race,600,1700
-90,Sat Sep 5,8:00 AM,Stone Cross to Lug Relay,,Wicklow,IMRA Relay,0,5300
-91,Sat Sep 5,8:00 AM,Stone Cross to Lug Solo,IUC,Wicklow,IMRA Race,2170,5400
-92,Sat Sep 5,11:00 AM,Slievenamon Half Marathon,MHM,Tipperary,IMRA Race,838,2190
-93,Sat Sep 5,11:00 AM,Slievenamon Marathon (+WMRA LD Champs Trial '20),ICS,Limerick,IMRA Race,2000,4200
-94,Sun Sep 6,10:00 AM,Nav Challenge 2,NC,Wicklow,IMRA Race,400,1550
-95,Sat Sep 12,10:00 AM,British & Irish Junior Championships,ICS,Abroad,Non-IMRA Race,447,710
-96,Sat Sep 12,10:30 AM,Nav Challenge 3,NC,Wicklow,IMRA Race,975,1700
-97,Sat Sep 19,10:00 AM,Aherlow 50k,,Tipperary,IMRA Race,2000,5000
-98,Sat Sep 19,12:00 PM,Glen of Aherlow Trail Half-Marathon (1 loop),MHM,Tipperary,IMRA Race,500,2110
-99,Sun Sep 27,11:00 AM,Celtic Challenge Run,MTL,Limerick,IMRA Race,400,1000
-100,Sat Oct 3,12:00 PM,Trials For World Mountain Championships,ICS,Wicklow,IMRA Race,664,1050
-101,Sun Oct 4,10:00 AM,Dublin Mountain Half: To Hell with the Fairies,,Dublin,IMRA Race,650,2110
-102,Sat Oct 17,11:00 AM,Nagles Half-Marathon,MHM,Cork,IMRA Race,650,2110
-103,Sat Nov 7,10:30 AM,Powerscourt Ridge,,Wicklow,IMRA Race,690,1600
-104,Fri Nov 13,10:00 AM,WMRA World Championships,ICS,Abroad,WMRA Race,750,1300
-105,Sat Nov 14,10:00 AM,WMRA Long Distance World Championships,ICS,Abroad,WMRA Race,1900,4100
-106,Sun Dec 27,11:00 AM,Djouce Remembrance Race,,Wicklow,IMRA Race,120,800
+,Day,Time,Venue/Event,Leagues,County,Type,Climb (m),Dist (km)
+0,Sat Jan 4,11:00 AM,Glengarra Woods,MTL,Tipperary,IMRA Race,300,7.0
+1,Fri Jan 10,9:00 PM,Ballyhoura Moonlight Marathon Challenge,,Limerick,IMRA Race,1000,42.0
+2,Fri Jan 10,10:00 PM,Ballyhoura Moonlight Half-Marathon Challenge,,Limerick,IMRA Race,500,21.0
+3,Sun Jan 19,11:00 AM,Corrin,MTL,Cork,IMRA Race,260,6.6
+4,Sun Jan 26,11:00 AM,Brockagh Burst,WSL,Wicklow,IMRA Race,200,6.0
+5,Sun Feb 2,11:00 AM,Currabinny Trail,MTL,Cork,IMRA Race,175,6.7
+6,Sun Feb 2,11:00 AM,Castlecomer Discovery Park,SEL,Kilkenny,IMRA Race,140,8.0
+7,Sat Feb 15,8:00 AM,Slí Gaeltacht Mhúscraí Ultra,IUC,Cork,IMRA Race,2140,71.5
+8,Sat Feb 15,12:00 PM,Slí Mhúscraí Half,MHM,Cork,IMRA Race,900,23.5
+9,Sun Feb 16,11:00 AM,Oughaval Woods,SEL,Laois,IMRA Race,200,8.5
+10,Sun Feb 23,11:00 AM,Bansha Woods (RESCHEDULED),MTL,Tipperary,IMRA Race,200,8.5
+11,Sun Feb 23,11:00 AM,Trooperstown Hill,WSL,Wicklow,IMRA Race,380,9.7
+12,Sat Feb 29,11:00 AM,Ticknock Winter (RESCHEDULED),WSL,Dublin,IMRA Race,220,5.9
+13,Sun Mar 1,11:00 AM,Bweeng Trail,MTL,Cork,IMRA Race,350,9.5
+14,Sun Mar 1,11:00 AM,Tory Hill,SEL,Kilkenny,IMRA Race,175,6.0
+15,Sat Mar 7,11:00 AM,Howth Winter,WSL,Dublin,IMRA Race,311,9.6
+16,Sun Mar 15,11:00 AM,POSTPONED! - Forth Mountain Wexford,SEL,Wexford,IMRA Race,200,7.0
+17,Sat Mar 21,12:00 PM,CANCELLED! - Annagh Hill,,Wexford,IMRA Race,550,10.5
+18,Sat Mar 21,12:00 PM,POSTPONED! - College Champs - Camaderry,,Wicklow,IMRA Race,552,8.5
+19,Sun Apr 5,11:00 AM,CANCELLED! - Woodstock Trail,SEL,Kilkenny,IMRA Race,274,9.4
+20,Wed Apr 15,7:30 PM,Vir-2-al Relay Charity Race,,Dublin,IMRA Relay,129,2.0
+21,Sat Apr 18,8:00 AM,CANCELLED! - Wicklow Glacier Lakes (Solo),,Wicklow,IMRA Race,1783,42.7
+22,Sat Apr 18,8:00 AM,CANCELLED! - Wicklow Glacier Lakes (Relay),,Wicklow,IMRA Relay,1783,42.7
+23,Sun Apr 19,11:00 AM,"CANCELLED! - Johns Hill, Killbrannish",SEL,Carlow,IMRA Race,368,10.59
+24,Sun Apr 19,11:00 AM,CANCELLED! - MangertonTrail,MTL,Kerry,IMRA Race,250,5.0
+25,Sun Apr 19,1:00 PM,CANCELLED! - Mangerton Munster Championship,MC,Kerry,IMRA Race,700,9.6
+26,Wed Apr 22,7:30 PM,CANCELLED! - Bray Head,LL,Wicklow,IMRA Race,270,6.85
+27,Sun Apr 26,12:00 PM,CANCELLED! - Tonelagee and Lap of the Lake,,Wicklow,IMRA Race,570,9.5
+28,Mon Apr 27,9:00 AM,IMRA Lockdown Challenge,,Dublin,Social,0,0.0
+29,Wed Apr 29,7:30 PM,CANCELLED! - Scalp,LL,Dublin,IMRA Race,212,5.8
+30,Sat May 2,4:30 AM,CANCELLED! - Ultra Trail Ballyhoura,IUC,Limerick,IMRA Race,2850,100.0
+31,Sat May 2,8:30 AM,CANCELLED! - Ballyhoura Trail Marathon,,Limerick,IMRA Race,1400,42.0
+32,Sat May 2,10:30 AM,CANCELLED! - Ballyhoura Trail Half Marathon,MHM,Limerick,IMRA Race,750,21.1
+33,Sun May 3,12:00 PM,CANCELLED! - Mount Leinster,"LC, SEL",Wexford,IMRA Race,635,13.8
+34,Sun May 3,12:00 PM,CANCELLED! - U18 Cup Trial Race (Mount Leinster),ICS,Dublin,IMRA Race,321,6.5
+35,Sun May 3,12:00 PM,CANCELLED! - European/Snowden Trial (Mt Leinster),ICS,Wicklow,IMRA Race,635,13.8
+36,Wed May 6,7:30 PM,CANCELLED! - Three Rock Summer,LL,Dublin,IMRA Race,344,8.5
+37,Wed May 6,8:00 PM,CANCELLED! - Kilworth WoodS,MTL,Cork,IMRA Race,175,6.5
+38,Sat May 9,11:00 AM,CANCELLED! - Mount Errigal,IC,Donegal,IMRA Race,500,10.0
+39,Wed May 13,7:30 PM,CANCELLED! - Prince William's Seat,LL,Wicklow,IMRA Race,364,8.39
+40,Sun May 17,11:00 AM,CANCELLED! - Guagane Barra Trail,MTL,Cork,IMRA Race,200,5.0
+41,Sun May 17,11:00 AM,CANCELLED! - Laghtnafrankee - Long Hill Clonmel,SEL,Waterford,IMRA Race,500,13.0
+42,Sun May 17,1:00 PM,CANCELLED! - Gougane Barra Championship,MC,Cork,IMRA Race,475,10.0
+43,Wed May 20,7:30 PM,CANCELLED! - Carrick Mountain,LL,Wicklow,IMRA Race,427,6.0
+44,Sat May 23,7:00 AM,CANCELLED! - Glendalough Tucker Trail,IUC,Wicklow,IMRA Race,3000,80.0
+45,Wed May 27,7:30 PM,CANCELLED! - Glasnamullen / Djouce,LL,Wicklow,IMRA Race,410,10.2
+46,Wed May 27,8:00 PM,CANCELLED! - 12 O'Clock Hills,MTL,Clare,IMRA Race,250,5.6
+47,Sat May 30,9:00 AM,RESCHEDULED! - Maurice Mullins Ultra,IUC,Wicklow,IMRA Race,1940,51.0
+48,Sat May 30,12:00 PM,RESCHEDULED! -Maurice Mullins Half - Postponed,ICS,Wicklow,IMRA Race,971,25.5
+49,Sat May 30,1:00 PM,POSTPONED! - Carrauntoohil,IC,Kerry,IMRA Race,1137,12.5
+50,Sat May 30,3:00 PM,CANCELLED! - Interceltic (Trail de Guerledan),ICS,Antrim,IMRA Race,830,26.0
+51,Wed Jun 3,7:30 PM,Sorrell Hill,LL,Wicklow,IMRA Race,392,9.45
+52,Sat Jun 6,11:00 AM,***Postponed*** Knockmealdown Half,MHM,Waterford,IMRA Race,1050,21.0
+53,Sun Jun 7,11:00 AM,Ballyhoura Munster Championship,"MC, MTL",Limerick,IMRA Race,250,5.0
+54,Wed Jun 10,7:30 PM,Scarr,LL,Wicklow,IMRA Race,383,8.25
+55,Fri Jun 12,9:00 PM,Beara Way Ultra Trail,,Cork,IMRA Race,4000,130.0
+56,Sat Jun 13,8:00 AM,Beara Way Relay,,Cork,IMRA Relay,4000,130.0
+57,Wed Jun 17,7:30 PM,Great Sugarloaf,LL,Wicklow,IMRA Race,450,7.5
+58,Wed Jun 17,8:00 PM,Mt. Hillary,MTL,Cork,IMRA Race,300,10.0
+59,Sat Jun 20,9:00 AM,WMRA International U18 Cup,ICS,Abroad,Non-IMRA Race,300,5.0
+60,Sun Jun 21,12:00 PM,Circuit of Glenmacnass,LC,Wicklow,IMRA Race,1040,19.0
+61,Wed Jun 24,7:30 PM,Tibradden/Sliabh Thigh Bródáin,LL,Dublin,IMRA Race,365,11.23
+62,Sun Jun 28,9:00 AM,Galty Crossing,,Tipperary,IMRA Race,1500,32.0
+63,Wed Jul 1,7:30 PM,Brockagh,LL,Wicklow,IMRA Race,443,11.0
+64,Sat Jul 4,9:00 AM,European Mountain Running Championships,ICS,Abroad,Non-IMRA Race,600,12.0
+65,Sat Jul 4,1:30 PM,Mweelrea,"IC, CC",Mayo,IMRA Race,766,10.7
+66,Sun Jul 5,1:30 PM,Croagh Patrick,CC,Mayo,IMRA Race,826,7.0
+67,Wed Jul 8,7:30 PM,Ballinastoe,LL,Wicklow,IMRA Race,490,12.0
+68,Wed Jul 8,8:00 PM,Claragh,MTL,Cork,IMRA Race,350,7.5
+69,Sat Jul 11,12:00 AM,Wicklow Way Race,IUC,Wicklow,IMRA Race,3000,127.0
+70,Sun Jul 12,11:30 AM,B&I U17&U20 Junior Championships Trial,ICS,Wicklow,IMRA Race,300,4.5
+71,Wed Jul 15,7:30 PM,Djouce -The Ayling Abyss,LL,Wicklow,IMRA Race,580,9.8
+72,Sat Jul 18,8:30 AM,Reeks Skyline (pre-entry approval required),,Kerry,IMRA Race,3000,30.0
+73,Sat Jul 18,2:00 PM,Snowdon,ICS,Abroad,Non-IMRA Race,1000,16.1
+74,Sun Jul 19,11:00 AM,Cronins Yard Trail,MTL,Kerry,IMRA Race,200,6.0
+75,Sun Jul 19,1:00 PM,Carrauntoohill Classic,MC,Kerry,IMRA Race,1100,15.0
+76,Wed Jul 22,7:30 PM,Mountain Rescue Benefit Race,,Wicklow,IMRA Race,250,8.0
+77,Sat Jul 25,1:00 PM,Log na Coille,"IC, LC",Wicklow,IMRA Race,718,10.46
+78,Wed Jul 29,7:30 PM,Glen of the Downs,TL,Wicklow,IMRA Race,200,7.15
+79,Sun Aug 2,11:00 AM,Boolas Trail Loop,MTL,Waterford,IMRA Race,250,5.0
+80,Sun Aug 2,1:00 PM,Boolas Championship,MC,Waterford,IMRA Race,700,12.0
+81,Wed Aug 5,7:30 PM,Devil's Glen Tiglin,TL,Wicklow,IMRA Race,283,8.0
+82,Sat Aug 8,7:00 AM,Wicklow Way Relay,,Wicklow,IMRA Relay,3500,104.0
+83,Wed Aug 12,7:30 PM,Downshill,TL,Wicklow,IMRA Race,400,9.6
+84,Wed Aug 12,8:00 PM,Rochestown Woods,MTL,Cork,IMRA Race,250,6.0
+85,Sun Aug 16,12:00 PM,Galtymore,IC,Tipperary,IMRA Race,1100,13.0
+86,Wed Aug 19,7:00 PM,Mountain Meitheal - Leinster League Handicap,,Dublin,IMRA Race,443,7.62
+87,Sat Aug 22,11:00 AM,Drumgoff,LC,Wicklow,IMRA Race,650,14.5
+88,Sun Aug 23,11:00 AM,Moylussa Trail,MTL,Clare,IMRA Race,300,5.0
+89,Sun Aug 23,1:00 PM,Moylussa Championship,MC,Clare,IMRA Race,630,10.0
+90,Sat Aug 29,10:30 AM,Nav Challenge 1,NC,Wicklow,IMRA Race,600,17.0
+91,Sat Sep 5,8:00 AM,Stone Cross to Lug Relay,,Wicklow,IMRA Relay,0,53.0
+92,Sat Sep 5,8:00 AM,Stone Cross to Lug Solo,IUC,Wicklow,IMRA Race,2170,54.0
+93,Sat Sep 5,11:00 AM,Slievenamon Half Marathon,MHM,Tipperary,IMRA Race,838,21.9
+94,Sat Sep 5,11:00 AM,Slievenamon Marathon (+WMRA LD Champs Trial '20),ICS,Limerick,IMRA Race,2000,42.0
+95,Sun Sep 6,10:00 AM,Nav Challenge 2,NC,Wicklow,IMRA Race,400,15.5
+96,Sat Sep 12,10:00 AM,British & Irish Junior Championships,ICS,Abroad,Non-IMRA Race,447,7.1
+97,Sat Sep 12,10:30 AM,Nav Challenge 3,NC,Wicklow,IMRA Race,975,17.0
+98,Sat Sep 19,10:00 AM,Aherlow 50k,,Tipperary,IMRA Race,2000,50.0
+99,Sat Sep 19,12:00 PM,Glen of Aherlow Trail Half-Marathon (1 loop),MHM,Tipperary,IMRA Race,500,21.1
+100,Sun Sep 27,11:00 AM,Celtic Challenge Run,MTL,Limerick,IMRA Race,400,10.0
+101,Sat Oct 3,12:00 PM,Trials For World Mountain Championships,ICS,Wicklow,IMRA Race,664,10.5
+102,Sun Oct 4,10:00 AM,Dublin Mountain Half: To Hell with the Fairies,,Dublin,IMRA Race,650,21.1
+103,Sat Oct 17,11:00 AM,Nagles Half-Marathon,MHM,Cork,IMRA Race,650,21.1
+104,Sat Nov 7,10:30 AM,Powerscourt Ridge,,Wicklow,IMRA Race,690,16.0
+105,Fri Nov 13,10:00 AM,WMRA World Championships,ICS,Abroad,WMRA Race,750,13.0
+106,Sat Nov 14,10:00 AM,WMRA Long Distance World Championships,ICS,Abroad,WMRA Race,1900,41.0
+107,Sun Dec 27,11:00 AM,Djouce Remembrance Race,,Wicklow,IMRA Race,120,8.0

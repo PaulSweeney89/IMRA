@@ -48,9 +48,11 @@ df=pd.DataFrame(Dict)
 
 df['Climb'] = df['Climb'].str.replace(r'\D','').astype(int)		# removing meters (m) and updating to intergers
 df['Dist.'] = df['Dist.'].str.replace(r'\D','').astype(int)		# removing kilometers (km) and updating to intergers
+df['Dist.'] = df['Dist.']/100
 
+df.rename(columns={'Climb':'Climb (m)','Dist.':'Dist (km)' }, inplace=True)
 
-df.to_csv('IMRA_Events.csv')
+df.to_csv('IMRA_Events.csv')						# Output to csv file
 
 
 
